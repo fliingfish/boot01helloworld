@@ -55,6 +55,7 @@ public class MainApplication {
         System.out.println(tom == user1.getPet());
         System.out.println(tom.toString());
         System.out.println(tom.toString());
+        System.out.println(tom.toString()+"hot-fix");
     }
 
 
