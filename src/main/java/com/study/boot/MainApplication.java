@@ -56,6 +56,8 @@ public class MainApplication {
         System.out.println(tom.toString());
         System.out.println(tom.toString() +"main");
 
+        System.out.println(tom.toString());
+        System.out.println(tom.toString()+"hot-fix");
     }
 
 
